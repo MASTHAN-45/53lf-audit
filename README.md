@@ -9,7 +9,7 @@ When building an advanced technical machine, you install hundreds of tools, clon
 Open your terminal and run these commands:
 
 '''bash
-git clone [https://github.com/YOUR_USERNAME/53lf-audit.git](https://github.com/YOUR_USERNAME/53lf-audit.git)
+git clone [(https://github.com/MASTHAN-45/53lf-audit)](https://github.com/MASTHAN-45/53lf-audit))
 cd 53lf-audit
 chmod +x 53lf_audit.sh
 ./53lf_audit.sh
