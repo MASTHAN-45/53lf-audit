@@ -21,4 +21,3 @@ If you find this tool helpful, please consider supporting its development! You c
 
 👉 **[Connect on LinkedIn](https://www.linkedin.com/in/khajamasthanshaik970/)**
 
-*Feel free to star ⭐️ this repository if it helped you audit your infrastructure!*
