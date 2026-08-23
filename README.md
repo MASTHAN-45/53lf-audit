@@ -13,3 +13,6 @@ git clone [https://github.com/YOUR_USERNAME/53lf-audit.git](https://github.com/Y
 cd 53lf-audit
 chmod +x 53lf_audit.sh
 ./53lf_audit.sh
+
+#
+*(Note: Change `YOUR_USERNAME` in the clone command to your actual GitHub username!)*
