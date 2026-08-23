@@ -13,5 +13,3 @@ git clone [https://github.com/YOUR_USERNAME/53lf-audit.git](https://github.com/Y
 cd 53lf-audit
 chmod +x 53lf_audit.sh
 ./53lf_audit.sh
-
-*(Note: If your LinkedIn URL has a different ending than `/in/khaja-masthan-shaik`, just swap that link out with your exact profile link before saving!)*
