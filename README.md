@@ -8,11 +8,11 @@ When building an advanced technical machine, you install hundreds of tools, clon
 ## How to Install and Run
 Open your terminal and run these commands:
 
-```bash
+'''bash
 git clone [https://github.com/YOUR_USERNAME/53lf-audit.git](https://github.com/YOUR_USERNAME/53lf-audit.git)
 cd 53lf-audit
 chmod +x 53lf_audit.sh
 ./53lf_audit.sh
+'''
 
-#
-*(Note: Change `YOUR_USERNAME` in the clone command to your actual GitHub username!)*
+*(Note: If your LinkedIn URL has a different ending than `/in/khaja-masthan-shaik`, just swap that link out with your exact profile link before saving!)*
