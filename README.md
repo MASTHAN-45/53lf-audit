@@ -15,4 +15,10 @@ chmod +x 53lf_audit.sh
 ./53lf_audit.sh
 ```
 
-*(Note: If your LinkedIn URL has a different ending than `/in/khaja-masthan-shaik`, just swap that link out with your exact profile link before saving!)*
+## 🔗 Support & Connect
+
+If you find this tool helpful, please consider supporting its development! You can follow my work, suggest new features, or connect with me directly on LinkedIn:
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
+*Feel free to star ⭐️ this repository if it helped you audit your infrastructure!*
