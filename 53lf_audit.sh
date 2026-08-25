@@ -3,8 +3,6 @@
 # ==============================================================================
 # CONFIGURATION
 # ==============================================================================
-# By default, the script looks for custom tools in ~/tools.
-# If a user keeps them elsewhere, they can change this path.
 CUSTOM_TOOLS_DIR="$HOME/tools"
 # ==============================================================================
 
